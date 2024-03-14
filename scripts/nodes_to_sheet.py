@@ -5,6 +5,7 @@ Ugly. Quick. Dirty mod to meshtastic shownodes function.
 But it works.
 
 Another option is to parse tabluate data.
+ ¯\_(ツ)_/¯
 
 """
 
